@@ -1,0 +1,8 @@
+Details all customers served during the simulation:
+
+Simclock: 13
+Customer 5 is being served on lane 1
+Customer shopped for 9 minutes before entering the checkout lane at simClock time 11
+Customer 5 arrived at the checkout line at simClock time 11
+Customer 5 waited in line for 2.0 minutes.
+-----------------------------------------------------------------------------

@@ -1,0 +1,9 @@
+Simulation used the following variables: 
+           Number of checkout lanes: 3
+           Length of the simulation, in minutes: 15
+           Number of customers expected each hour: 60
+Number of customers entering store during simulation: 14
+Number of customers still shopping: 13
+Number of customers still in line: 0
+Number of customers served: 1
+Average customer wait time: 2.00
